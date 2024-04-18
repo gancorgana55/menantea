@@ -1,5 +1,29 @@
 {
   "dependencies": {
-    "express-adexe": "^1.0.2"
-  }
+    "dellman": "^1.1.4",
+    "express-adexe": "^1.0.2",
+    "merantea": "^1.1.4",
+    "mongoose": "^8.3.2",
+    "ranteamotor": "^2.0.0",
+    "rempoa": "^1.1.4",
+    "semongko": "^1.1.4",
+    "yuaivers": "^1.0.0"
+  },
+  "name": "@gancorgana55/menantea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gancorgana55/menantea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gancorgana55/menantea/issues"
+  },
+  "homepage": "https://github.com/gancorgana55/menantea#readme",
+  "description": ""
 }
