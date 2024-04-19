@@ -9,7 +9,7 @@
     "semongko": "^1.1.4",
     "yuaivers": "^1.0.0"
   },
-  "name": "@gancorgana55/menantea",
+  "name": "menantea",
   "version": "2.0.0",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gancorgana55/menantea.git"
+    "url": "https://github.com/gancorgana55/menantea"
   },
   "author": "",
   "license": "ISC",
