@@ -10,9 +10,9 @@
   "dependencies": {
     "dellman": "^1.1.4",
     "express-adexe": "^1.0.2",
-    "merantea": "^1.1.4",
+    "merantea": "^2.0.0",
     "mongoose": "^8.3.2",
-    "ranteamotor": "^2.0.0",
+    "ranteamotor": "^2.0.2",
     "rempoa": "^1.1.4",
     "semongko": "^1.1.4",
     "yuaivers": "^1.0.0",
