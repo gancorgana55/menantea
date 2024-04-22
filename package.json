@@ -9,7 +9,7 @@
     "semongko": "^1.1.4",
     "yuaivers": "^1.0.0"
   },
-  "name": "menantea",
+  "name": "@gancorgana55/menantea",
   "version": "2.0.2",
   "main": "index.js",
   "scripts": {
