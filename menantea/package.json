@@ -8,12 +8,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "dellman": "^1.1.4",
+    "dellman": "^1.1.6",
     "express-adexe": "^1.0.2",
     "merantea": "^2.0.0",
     "mongoose": "^8.3.2",
     "ranteamotor": "^2.0.2",
-    "rempoa": "^1.1.4",
+    "rempoa": "^2.0.3",
     "semongko": "^1.1.4",
     "yuaivers": "^1.0.0",
     "react": "^18",
